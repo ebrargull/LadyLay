@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  LadyLay
+
+  Created by Ebrar Gül on 27.12.2024.
+  
+*/
+"welcome" = "Welcome Lady";
+"login" = "Login";
+"username" = "User Name";
+"password" = "Password";
+
+"edit" = "Edit";
+"add" = "Add";
+"map_tab" = "Map";
+"settings_tab" = "Settings";
+"emoji" = "Emoji";
+"select_emoji" = "Select Emoji";
+"ok" = "Ok";
+"app_theme" = "App Theme";
+"preferences" = "Preferences";
+"appearance" = "Theme";
+"default_appearance" = "System";
+"light_appearance" = "Light";
+"dark_appearance" = "Dark";
+"search_bar_placeholder" = "Search";
+"calendar_tab" = "Calendar";
+"rate_us" = "Review on App Store";
+"feedback" = "Feedback";
+"send_feedback" = "💬  Send Feedback";
+"changed_app_theme" = "App theme has been updated";
+"follow_social_media" = "Follow me on social media✨";
+"save" = "Save";
+
+
+"welcome" = "Welcome";
+"tagline" = "Know yourself, trust yourself, track yourself.";
+"login" = "Login";
+"username_placeholder" = "Username";
+"password_placeholder" = "Password";
+"login_button" = "Login";
+"login_success_title" = "Login Successful";
+"login_success_message" = "You have successfully logged in!";
+"login_error_title" = "Login Failed";
+"login_error_message" = "Username and password cannot be empty.";
+"ok_button" = "OK";
+"no_account_signup" = "Don't have an account? Sign Up";
+
+"signup_title" = "Sign Up";
+"signup_button" = "Sign Up";
+"confirm_password_placeholder" = "Confirm Password";
+"email_placeholder" = "Email";
+"signup_success_title" = "Success";
+"signup_success_message" = "Registration completed successfully!";
+"signup_error_title" = "Sign Up Error";
+"error_fill_all_fields" = "Please fill in all fields.";
+"error_invalid_email" = "Enter a valid email address.";
+"error_weak_password" = "Password must be at least 6 characters.";
+"error_passwords_not_match" = "Passwords do not match.";
+
+
+

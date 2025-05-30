@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  LadyLay
+
+  Created by Ebrar Gül on 27.12.2024.
+  
+*/
+"welcome" = "Hoş Geldiniz";
+"login" = "Giriş Yap";
+"username" = "Kullanıcı Adı";
+"password" = "Şifre";
+
+"map_tab" = "Harita";
+"settings_tab" = "Ayarlar";
+"diary_title" = "Başlık";
+"ok" = "Tamam";
+"app_theme" = "Uygulama Teması";
+"preferences" = "Seçenekler";
+"appearance" = "Tema";
+"default_appearance" = "Sistem";
+"light_appearance" = "Açık";
+"dark_appearance" = "Koyu";
+"search_bar_placeholder" = "Ara";
+"calendar_tab" = "Takvim";
+"rate_us" = "Bizi App Store'da puanla";
+"feedback" = "Geri Bildirim";
+"send_feedback" = "💬  Görüşlerinizi gönderin";
+"changed_app_theme" = "Uygulama teması değiştirildi";
+"follow_social_media" = "Beni sosyal medyadan takip edin✨";
+"save" = "Kaydet";
+
+
+"welcome" = "Hoş Geldin";
+"tagline" = "Kendini tanı, kendine güven, kendini takip et.";
+"login" = "Giriş Yap";
+"username_placeholder" = "Kullanıcı Adı";
+"password_placeholder" = "Şifre";
+"login_button" = "Giriş Yap";
+"login_success_title" = "Giriş Başarılı";
+"login_success_message" = "Başarıyla giriş yaptınız!";
+"login_error_title" = "Hatalı Giriş";
+"login_error_message" = "Kullanıcı adı ve şifre boş olamaz.";
+"ok_button" = "Tamam";
+"no_account_signup" = "Hesabın yok mu? Kayıt Ol";
+
+"signup_title" = "Kayıt Ol";
+"signup_button" = "Kayıt Ol";
+"confirm_password_placeholder" = "Şifreyi Tekrarla";
+"email_placeholder" = "E-posta";
+"signup_success_title" = "Başarılı";
+"signup_success_message" = "Kayıt başarıyla tamamlandı!";
+"signup_error_title" = "Kayıt Hatası";
+"error_fill_all_fields" = "Lütfen tüm alanları doldurun.";
+"error_invalid_email" = "Geçerli bir e-posta adresi girin.";
+"error_weak_password" = "Şifre en az 6 karakter olmalı.";
+"error_passwords_not_match" = "Şifreler eşleşmiyor.";
+
+
+
+
+
+
+
+
+
+
