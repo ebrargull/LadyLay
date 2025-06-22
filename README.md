@@ -52,7 +52,6 @@ Uygulama **SwiftUI** ve **Firebase** kullanılarak geliştirilmiştir, gizlilik 
 
 ## 📷 Ekran Görüntüleri / Screenshots
 
-> `Screenshots/` klasörüne görselleri ekleyin ve aşağıya bağlantılarını yazın. / Upload your screenshots in the `Screenshots/` folder and link them below.
 
 ### ✨ Ana Sayfa ve Giriş Ekranı / Home & Login Screens
 
