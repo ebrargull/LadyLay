@@ -54,14 +54,22 @@ Uygulama **SwiftUI** ve **Firebase** kullanılarak geliştirilmiştir, gizlilik 
 
 > `Screenshots/` klasörüne görselleri ekleyin ve aşağıya bağlantılarını yazın. / Upload your screenshots in the `Screenshots/` folder and link them below.
 
+### ✨ Ana Sayfa ve Giriş Ekranı / Home & Login Screens
+
+<p >
+  <img src="Screenshots/1.jpeg" width="250"/>
+  <img src="Screenshots/2.jpeg" width="257"/>
+</p>
+
+
 ### 🗓️ Takvim Ekranı / Calendar View  
-<img src="Screenshots/calendar.png" width="250"/>
+<img src="Screenshots/3.jpeg" width="250"/>
 
 ### 🗺️ Harita ve Konumlar / Map and Locations  
-<img src="Screenshots/map.png" width="250"/>
+<img src="Screenshots/4.jpeg" width="250"/>
 
 ### ⚙️ Ayarlar ve Tema Seçimi / Settings & Theme Selection  
-<img src="Screenshots/settings.png" width="250"/>
+<img src="Screenshots/5.jpeg" width="250"/>
 
 ---
 
